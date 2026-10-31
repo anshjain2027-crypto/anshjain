@@ -295,8 +295,8 @@ export function Portfolio() {
               <img
                 src={PORTRAIT}
                 alt="Portrait of Ansh Jain"
-                width={800}
-                height={1200}
+                width={900}
+                height={1350}
                 className="relative aspect-[2/3] w-full rounded-lg bg-surface object-cover shadow-2xl"
                 loading="eager"
               />
